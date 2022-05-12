@@ -11,6 +11,7 @@ should prefer Timeout.timeout instead.
 
 Add this line to your application's Gemfile:
 
+
 ```ruby
 gem 'timeout'
 ```
